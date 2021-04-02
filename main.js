@@ -1,9 +1,9 @@
-// function toPreviewText(input) {
-//     const rawText = input
-//     //const markUpText = marked(rawText)
-//     console.log("toPreview function called")
-//     return input
-//   }
+function toPreviewText(input) {
+    const rawText = input
+    //const markUpText = marked(rawText)
+    console.log("toPreview function called")
+    return input
+  }
   
   const placeholder = `# Welcome to a Markdown Preview
   ## Here is a subheading
